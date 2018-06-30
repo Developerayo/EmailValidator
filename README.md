@@ -65,7 +65,7 @@ $validator->isValid("example@example.com", $multipleValidations); //true
 It's easy! You just need to implement [EmailValidation](https://github.com/egulias/EmailValidator/blob/master/EmailValidator/Validation/EmailValidation.php) and you can use your own validation.
 
 
-## Other Contributors ##
+## Other Contributors ## 
 (You can find current contributors [here](https://github.com/egulias/EmailValidator/graphs/contributors))
 
 As this is a port from another library and work, here are other people related to the previous one:
