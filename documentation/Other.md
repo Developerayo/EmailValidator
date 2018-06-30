@@ -45,7 +45,7 @@ https://tools.ietf.org/html/rfc5321#section-2.3.5
   names appear in SMTP transactions on the public Internet,
   particularly important where top-level domains are involved.
 
-TLD format
+TLD; format
 ----------
 The format of TLDs has changed a number of times. The standards
 used by IANA have been largely ignored by ICANN, leading to
