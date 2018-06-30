@@ -74,6 +74,6 @@ As this is a port from another library and work, here are other people related t
 * Josepf Bielawski [@stloyd](https://github.com/stloyd):      		For its first re-work of Dominic's lib
 * Dominic Sayers [@dominicsayers](https://github.com/dominicsayers):  	The original isemail function
 
-## License ##
+## License ## 
 Released under the MIT License attached with this code.
 
