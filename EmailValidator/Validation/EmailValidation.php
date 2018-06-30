@@ -31,4 +31,5 @@ interface EmailValidation
      * @return Warning[]
      */
     public function getWarnings();
+    
 }
