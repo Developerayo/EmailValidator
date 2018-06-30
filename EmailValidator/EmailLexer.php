@@ -187,7 +187,7 @@ class EmailLexer extends AbstractLexer
 
         return false;
     }
-
+    
     /**
      * @param $value
      * @return bool
