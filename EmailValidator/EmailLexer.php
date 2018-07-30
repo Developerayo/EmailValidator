@@ -36,7 +36,7 @@ class EmailLexer extends AbstractLexer
     const GENERIC            = 300;
     const CRLF               = 301;
     const INVALID            = 302;
-    const ASCII_INVALID_FROM = 127;
+    const ASCII_INVALID_FROM = 127; 
     const ASCII_INVALID_TO   = 199;
 
     /**
