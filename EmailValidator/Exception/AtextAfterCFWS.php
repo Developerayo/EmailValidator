@@ -1,5 +1,4 @@
 <?php
-
 namespace Egulias\EmailValidator\Exception;
 
 class AtextAfterCFWS extends InvalidEmail
