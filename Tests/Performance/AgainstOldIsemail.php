@@ -1,5 +1,4 @@
 <?php
-
 use Egulias\EmailValidator\EmailValidator;
 
 require __DIR__ . '/../../vendor/autoload.php';
